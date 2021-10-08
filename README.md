@@ -2,6 +2,9 @@
 https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
 
 
+Rust Book:
+https://doc.rust-lang.org/book/
+
 Fix:
 "error: linking with link.exe failed: exit code: 1"
 
